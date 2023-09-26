@@ -1,4 +1,4 @@
-<x-app-layout title="Patient Details">
+<x-app-layout title="Patient Detailsssss">
 {{--  --}}
     <div class="container-fluid pt-4">
 
